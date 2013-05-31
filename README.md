@@ -1,4 +1,4 @@
-# Final Report of The Truth Justice and Reconciliation Commission of Kenya
+# An Accessible version of the TJRC Final Report
 
 
 ## Overview
