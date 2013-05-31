@@ -16,6 +16,17 @@ as several very large PDFs.
 - Make it possible to link to specific parts of the report and make those links stable.
 
 
+## Original PDFs
+
+The original PDFs that this content is extracted from are available from http://www.tjrckenya.org/index.php?option=com_content&view=article&id=573&Itemid=238 and are not stored in this repository.
+
+You can run the following command to retrieve them:
+
+```bash
+make get-originals
+```
+
+
 ## Copyright
 
 The copyright statement in the report reads:
